@@ -1,5 +1,7 @@
 2011877
 1225411
 
-Processori
-Schede Madri
+Componenti
+	Processori
+	Schede Madri
+
